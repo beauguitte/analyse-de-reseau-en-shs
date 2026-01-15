@@ -2,7 +2,7 @@
 Petit guide pratique
 Version 0.1 - Mai 2023
 
-## Une version revue, corrigée et augmentée en janvier 2026 est disponible sur HAL à cet adresse. La version en ligne ne sera pas mise à jour dans un futur proche.
+Une version revue, corrigée et augmentée en janvier 2026 est disponible sur HAL à cet adresse. La version en ligne ne sera pas mise à jour dans un futur proche.
 
 ## Description
 Version html du pdf disponible à cette adresse https://hal.science/hal-04052709/document.
